@@ -2,5 +2,8 @@
 No puede verse el tp2_1_2.cpp debido a que fue creado y subido a una branch diferente a la main.
 
 Cambie al Branch master y vuelva a ejecutar el comando gitk –all ¿Qué diferencias nota?
-Al momento de ejecutar dicho comando sale a plena vista de que en esta branch muestra los commit de realizados en ambas
-branch a diferencia de Opcion_2 en la cual solo mostraba los commit de la misma.
+Al momento de ejecutar dicho comando sale a plena vista de que en esta branch muestra los commit de realizados en esta
+branch y no los de la branch Opcion_2.
+
+● Luego utilice el comando gitk –all para ver los cambios, ¿Qué nota?
+A diferencia de antes, ahora aparecen todos los commmit de ambas branch.
